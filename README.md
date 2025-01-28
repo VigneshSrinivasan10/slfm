@@ -6,7 +6,7 @@ Scaling Laws for Flow Matching (SLFM) is a project for understanding scaling law
 - [x] Flow matching on a toy dataset. 
 - [x] Implement u-mup.  
 - [ ] Coordinate check for unit activations during training. 
-- [ ] Evaluate convergence by varying different aspects like lr, width, depth etc.  
+- [ ] Evaluate mu-transfer by varying different aspects like lr, width, depth etc.  
 
 ## Installation
 
